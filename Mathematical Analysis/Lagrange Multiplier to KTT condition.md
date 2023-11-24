@@ -7,6 +7,6 @@ $$\max/\ \min f(x,y) \\ s.t. \quad g(x,y) = c $$
 
 We can solve it by Lagrange Multiplier Method：
 
-$$\mathcal {L}(x,y,\lambda )=f(x,y) - \lambda \cdot ( g(x,y) - c )\\
-\mathcal {L}(x,y,\lambda )=f(x,y) + \lambda \cdot ( g(x,y) - c )\\$$
+$$\mathcal {L}(x,y,\lambda )=f(x,y) - \lambda \cdot ( g(x,y) - c )\\ \mathcal {L}(x,y,\lambda )=f(x,y) + \lambda \cdot ( g(x,y) - c )$$
 
+we can use a good example to get 

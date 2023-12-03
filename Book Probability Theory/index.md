@@ -1,10 +1,9 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+This is a book for reviewing the class ```Probability Theory```.
 
-Learning the Professor Hong Yongmiao Class[@Cite]
+Class Matetial: the Professor [Hong Yongmiao Class](https://probability.xmu.edu.cn/)
 
-Book:
+Book: 《Probability and Statistics for Economists》（ Yongmiao Hong, World Scientific, 2017）
 
-
-[Cite]:https://probability.xmu.edu.cn/
+Video: [Bilibili](https://www.bilibili.com/video/av60873757/)

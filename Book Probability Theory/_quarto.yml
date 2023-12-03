@@ -8,6 +8,7 @@ book:
   chapters:
     - index.md
     - intro.md
+    - Foundation of Probability Theory.md
     - summary.md
     - references.qmd
 
